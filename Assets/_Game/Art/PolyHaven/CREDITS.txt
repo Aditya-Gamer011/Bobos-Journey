@@ -1,0 +1,5 @@
+Photoscanned textures and models from Poly Haven (https://polyhaven.com), licensed CC0 (public domain).
+No attribution required; credited here with thanks.
+
+Textures: rustic_stone_wall_02, rock_face_03, forest_ground_04, weathered_brown_planks
+Models:   rock_moss_set_01, rock_moss_set_02, boulder_01

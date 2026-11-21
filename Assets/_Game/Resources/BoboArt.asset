@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a848c0464db477d45afd3e4758e24609, type: 3}
+  m_Name: BoboArt
+  m_EditorClassIdentifier: Assembly-CSharp::BobosJourney.BoboArt
+  toon: {fileID: 4800000, guid: cd9eed5e373c72f4b8195e69957eb699, type: 3}
+  fx: {fileID: 4800000, guid: 1cd2199ce1c4ee34e9016c4e51e6abd7, type: 3}
+  portal: {fileID: 4800000, guid: 0d421a76c5bdb28428c47f7221e71747, type: 3}
+  sky: {fileID: 4800000, guid: 95cc2eacec2ad8a4bac63c336ab24038, type: 3}
+  boboFaces:
+  - {fileID: 2800000, guid: d758e1880a177f046a9a3fada2caead3, type: 3}
+  - {fileID: 2800000, guid: d758e1880a177f046a9a3fada2caead3, type: 3}
+  - {fileID: 2800000, guid: d758e1880a177f046a9a3fada2caead3, type: 3}
+  - {fileID: 2800000, guid: 7549b0d5d68406a41b83cfd5b30e9c5c, type: 3}
+  - {fileID: 2800000, guid: 7549b0d5d68406a41b83cfd5b30e9c5c, type: 3}
+  - {fileID: 2800000, guid: d758e1880a177f046a9a3fada2caead3, type: 3}
+  - {fileID: 2800000, guid: 7549b0d5d68406a41b83cfd5b30e9c5c, type: 3}
+  - {fileID: 2800000, guid: d758e1880a177f046a9a3fada2caead3, type: 3}
+  stone: {fileID: 2800000, guid: 793d9e353b492d4479134946b0f967bd, type: 3}
+  wood: {fileID: 2800000, guid: 7bf18d4bf46cb5043aa18a24fe0f0663, type: 3}
+  grass: {fileID: 2800000, guid: 65d1f49109a3c434a910ebdc53d85d81, type: 3}
+  jelly: {fileID: 2800000, guid: 5429ce81bcdb29948a4c4028372c6a47, type: 3}
+  blob: {fileID: 2800000, guid: 6ac5e540a7ee1e3499864ed5f7966efd, type: 3}
+  softDot: {fileID: 2800000, guid: 87e58c6e92c08bc41929d63cbe741654, type: 3}
+  star: {fileID: 2800000, guid: 80ae0916d1e47444eb865af8697fd529, type: 3}
+  inkBox: {fileID: 21300000, guid: 816bbadb84da25f4cb0b242bc8caedd8, type: 3}
+  paperTorn: {fileID: 21300000, guid: 4b98928df9bcf414785fb2eff92c5903, type: 3}
+  brush: {fileID: 21300000, guid: 0ae6044b868d2c4479508d9500b3f6f6, type: 3}
+  splat: {fileID: 21300000, guid: 8989db95aaf5d3b4f914d37f93bee98b, type: 3}
+  inkRing: {fileID: 21300000, guid: 820935ec9ad8bbf4ba846e23db167c6e, type: 3}
+  circle: {fileID: 21300000, guid: 4e77b30e2519c1e49b455ce1c1e7ad39, type: 3}
+  inkLine: {fileID: 2800000, guid: 10901155915ed034caab2fcd34cef339, type: 3}
+  font: {fileID: 12800000, guid: 553a333b983f616428adb8a755e01691, type: 3}

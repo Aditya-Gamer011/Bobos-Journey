@@ -1,0 +1,66 @@
+# ---- Unity: generated, machine-specific or rebuilt on open -----------------
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Asset meta data should only be ignored when the corresponding asset is also ignored
+!/[Aa]ssets/**/*.meta
+
+# Unity crash / build artefacts
+sysinfo.txt
+crashlytics-buildid.txt
+*.apk
+*.aab
+*.unitypackage
+*.app
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Auto-generated IDE files (Unity regenerates these)
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+.vs/
+.vsconfig
+.idea/
+.gradle/
+ExportedObj/
+.consulo/
+
+# VS Code: keep shared settings, drop local state
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+
+# ---- This project ------------------------------------------------------------
+# play-test captures
+/Screenshots/
+
+# ---- OS clutter ----------------------------------------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# local tooling
+/.claude/

@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4738ae7a12e91f14f9cbce6f7dcf4970, type: 3}
+  m_Name: EnvArt
+  m_EditorClassIdentifier: Assembly-CSharp::BobosJourney.EnvArt
+  island: {fileID: 2100000, guid: 9ced950bda7a8c74fa95ff12fa264300, type: 2}
+  crumble: {fileID: 2100000, guid: b51f79ee9ef0efe4fb37742e27dad307, type: 2}
+  wall: {fileID: 2100000, guid: ead6efc44818b5947b2b4f53e1edf559, type: 2}
+  wallCheap: {fileID: 2100000, guid: 9a33301ad94f7fa4bb52e8c818a6e67a, type: 2}
+  wood: {fileID: 2100000, guid: 0cab4fcc1c23f9c4b91c656cbdbfdc07, type: 2}
+  stoneBare: {fileID: 2100000, guid: a5db5238032701a4daafb3ac96dca253, type: 2}
+  emissive: {fileID: 2100000, guid: 9d3d41678186b274193ae0befbfbe36a, type: 2}
+  cloth: {fileID: 2100000, guid: 63167344e3756554b92f998f77d3492b, type: 2}
+  rockMeshes:
+  - {fileID: 4300000, guid: 9c0009aed9a68b245b0cdbc247e0e29f, type: 2}
+  - {fileID: 4300000, guid: 47da3a2d00c8c2a4f9d37ccf6fdcaaed, type: 2}
+  - {fileID: 4300000, guid: a90f46fc5012bbc4d9bc1e4963b0e353, type: 2}
+  - {fileID: 4300000, guid: 7ce69285ee7142049b80c77f7bac0bea, type: 2}
+  - {fileID: 4300000, guid: 0bdb2fd7c84237544b2f3aea39695a1d, type: 2}
+  - {fileID: 4300000, guid: 681015767158ad24992cee49ffb553ff, type: 2}
+  - {fileID: 4300000, guid: 492550216d5196a49b4977d86562715c, type: 2}
+  - {fileID: 4300000, guid: 2894b104d1491614a9aa957d3fdb7732, type: 2}
+  - {fileID: 4300000, guid: 72b571d18e9030640a256551a219a25e, type: 2}
+  - {fileID: 4300000, guid: 20ad20caf96a962499359af547a91780, type: 2}
+  - {fileID: 4300000, guid: 296b5785f4c1cbb469afba25c794119a, type: 2}
+  - {fileID: 4300000, guid: dcce773492106004b969b6d5e44357db, type: 2}
+  - {fileID: 4300000, guid: 7db19c8335d4e4a4dac81a687971ebc4, type: 2}
+  - {fileID: 4300000, guid: 1b8925cd4d13efe41ba6e3fe0b4ceaa8, type: 2}
+  rockMaterials:
+  - {fileID: 2100000, guid: ce7dc2b2ff7360f43ba5aae6bc4b1c3a, type: 2}
+  - {fileID: 2100000, guid: ce7dc2b2ff7360f43ba5aae6bc4b1c3a, type: 2}
+  - {fileID: 2100000, guid: ce7dc2b2ff7360f43ba5aae6bc4b1c3a, type: 2}
+  - {fileID: 2100000, guid: ce7dc2b2ff7360f43ba5aae6bc4b1c3a, type: 2}
+  - {fileID: 2100000, guid: ce7dc2b2ff7360f43ba5aae6bc4b1c3a, type: 2}
+  - {fileID: 2100000, guid: ce7dc2b2ff7360f43ba5aae6bc4b1c3a, type: 2}
+  - {fileID: 2100000, guid: 160686e866150214eb4b9ceffab97796, type: 2}
+  - {fileID: 2100000, guid: 160686e866150214eb4b9ceffab97796, type: 2}
+  - {fileID: 2100000, guid: 160686e866150214eb4b9ceffab97796, type: 2}
+  - {fileID: 2100000, guid: 160686e866150214eb4b9ceffab97796, type: 2}
+  - {fileID: 2100000, guid: 160686e866150214eb4b9ceffab97796, type: 2}
+  - {fileID: 2100000, guid: 160686e866150214eb4b9ceffab97796, type: 2}
+  - {fileID: 2100000, guid: 160686e866150214eb4b9ceffab97796, type: 2}
+  - {fileID: 2100000, guid: c096009a2ea70ae4984aa3e294048dc2, type: 2}
+  bushes:
+  - {fileID: 194760, guid: a332036233ad6cf4dba2f94ec0788de3, type: 3}
+  - {fileID: 166384, guid: 0685087ecf0a56b44beeac1c10c1319f, type: 3}
+  - {fileID: 135370, guid: 13b483414e8beaa4e8ad7a011763dcaa, type: 3}
+  - {fileID: 105234, guid: c0c201a48616d464d895bf564bc1bbd6, type: 3}
+  - {fileID: 182764, guid: 9971f395d57dd724386210aa33bf1ecb, type: 3}
+  - {fileID: 197442, guid: 1548b53856f0c36488e11ad5bae99607, type: 3}
+  - {fileID: 142252, guid: 216f2ee704867d742ad610e901526843, type: 3}
+  - {fileID: 142372, guid: b2cbe742f6d6841458d8952a70f9180d, type: 3}
+  - {fileID: 109840, guid: 76ff55081ff09f64f9ee2e4b5e02517a, type: 3}
+  saplings:
+  - {fileID: 132124, guid: f2ecac13edfd8504fad0459f38ed7b49, type: 3}
+  - {fileID: 108348, guid: 224d5acd488efff4f87faff9fdbab045, type: 3}
+  - {fileID: 150914, guid: be9deb84d1593ef4eb4e2b7a9ebd9756, type: 3}
+  - {fileID: 149276, guid: cd4a72cd4d65e3b4cb7bee66abd434bf, type: 3}
+  mushrooms:
+  - {fileID: 100000, guid: fbda93f9ec1d1b344868038fc8d279d4, type: 3}
+  - {fileID: 100000, guid: 85c00f8ad9b38fe4594cffcd8dc43869, type: 3}
+  - {fileID: 100000, guid: 0cd3f1d38305ff641b30d46b6f7e4fcd, type: 3}
+  - {fileID: 100000, guid: f3597901729a5bf47a04f7efd7f8b0ff, type: 3}
+  - {fileID: 100000, guid: 7bdd1c1e06483b74dab852a8dc0bb927, type: 3}
+  - {fileID: 100000, guid: 05f8d467f40b7d440a5761d8d8bff236, type: 3}
+  pebbles:
+  - {fileID: 102166, guid: b7a0eaacc5be591469d1e62b419f4a52, type: 3}
+  - {fileID: 156434, guid: 547e64135808d204ba834fc0f8e49690, type: 3}
+  - {fileID: 139096, guid: b313ae7278ef9144b912353ba43024ec, type: 3}
+  - {fileID: 167370, guid: 4238f30004a800e4fab4c077ac2a80a6, type: 3}
+  - {fileID: 162244, guid: b48cc566313db7440a6bee16a738bec0, type: 3}
+  crystals:
+  - {fileID: 193938, guid: b078cda6dbbc78741916a35dc76ac1c8, type: 3}
+  - {fileID: 197468, guid: 0cc805934308da74cb7d463401fd3acb, type: 3}
+  - {fileID: 101590, guid: dfcfd81fd63df1d4ebfd6e9730221433, type: 3}
+  - {fileID: 109784, guid: f8cf4cf62454cfd408a5593456465ea2, type: 3}
+  pillars:
+  - {fileID: 155120, guid: 6707dd6a5d598f14194b8cf3770de705, type: 3}
+  - {fileID: 128012, guid: 960ca9bb28fd0ec4a9626b8351735f4d, type: 3}
+  - {fileID: 130696, guid: af57a32b49e62cb448b32ee43b7f89aa, type: 3}
+  - {fileID: 194020, guid: eb50d62218b0d10478c825c66aaecd7e, type: 3}
+  ambientFx:
+  - {fileID: 107998, guid: 94a8b3d6c2358ed46be57ff44fdc007a, type: 3}
+  - {fileID: 163032, guid: d9cffce11c13e6b45a5557606b1692b5, type: 3}
+  - {fileID: 176534, guid: b7422a034b5d6864b898074899c5c0ec, type: 3}
+  - {fileID: 161158, guid: de904d1e104cd2b4a895b5530b736421, type: 3}
+  grassCards:
+  - {fileID: 2100000, guid: a0bffe7f6abec9d43a30904310d7f5fe, type: 2}
+  - {fileID: 2100000, guid: 805d02a62bff55f4fb288ffc4d325732, type: 2}
+  - {fileID: 2100000, guid: 552da0f53bb1f7941b937dcf9aa88ca1, type: 2}
+  - {fileID: 2100000, guid: fc77bb7d6498a1044b5d2fbaab4a04c7, type: 2}
+  - {fileID: 2100000, guid: 079e11c1235e9e94791a892fb1bf3c7d, type: 2}
+  - {fileID: 2100000, guid: 0a4dbd3608eb03545ba1f6e040fe735f, type: 2}
+  - {fileID: 2100000, guid: aa99f263d99407e4ea5f86cdcb9b5967, type: 2}
